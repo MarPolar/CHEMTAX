@@ -1,0 +1,11 @@
+	chl_b	chl_c1_c2	chl_c3	perid	19but	fucox	neox	prasinox	violax	19hex	DD_DT	allox	zeax	lutein	dv_chla	chl_a
+Diatoms	0	0.32	0	0	0	0.6	0	0	0	0	0.09	0	0	0	0	1
+Dinoflagellates	0	0.32	0	0.6	0	0	0	0	0	0	0.2	0	0	0	0	1
+Cryptophytes	0	0.19	0	0	0	0	0	0	0	0	0	0.29	0	0	0	1
+Pelagophytes	0	0.2	0.33	0	1.12	0.1	0	0	0	0.1	0.96	0	0	0	0	1
+Haptophytes_C	0	0.22	0.24	0	0.01	0.35	0	0	0	1.34	0.19	0	0	0	0	1
+Haptophytes_P	0	0.17	0.49	0	0.02	0.19	0	0	0	0.36	0.06	0	0	0	0	1
+Prasinophytes	1.05	0	0	0	0	0	0.1	0.24	0.1	0	0	0	0.03	0.01	0	1
+Chlorophytes	0.2	0	0	0	0	0	0.01	0	0.11	0	0	0	0.07	0.71	0	1
+Synechococcus	0	0	0	0	0	0	0	0	0	0	0	0	0.4	0	0	1
+Prochlorophytes	0.14	0	0	0	0	0	0	0	0	0	0	0	0.05	0	1	0
